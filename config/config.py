@@ -47,9 +47,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Alexa_BotUpdates")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/quantagi")
 
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Alexa_Help")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/quantagi")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -105,7 +105,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/d593c6064ff7657d0c714.jpg"
+    "START_IMG_URL", "https://cdn.discordapp.com/attachments/1006056892616949801/1226317652255965314/OIG1_1.jpeg"
 )
 
 PING_IMG_URL = getenv(
