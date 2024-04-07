@@ -424,7 +424,7 @@ heroku_15 : "ɪɴᴠᴀʟɪᴅ ɢɪᴛ ʀᴇᴘᴏsɪᴛᴏʀʏ."
 
 #Private bot mode
 pbot_1 : "**ᴜsᴀɢᴇ:**\n/authorize [CHAT_ID]"
-pbot_2 :"**ᴜsᴀɢᴇ:**\n/unauthorize [CHAT_ID]"
+pbot_2 : "**ᴜsᴀɢᴇ:**\n/unauthorize [CHAT_ID]"
 pbot_3 : "ᴀᴅᴅᴇᴅ ɢɪᴠᴇɴ ᴄʜᴀᴛ ᴛᴏ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ʟɪsᴛ."
 pbot_4 : "ʀᴇᴍᴏᴠᴇᴅ ɢɪᴠᴇɴ ᴄʜᴀᴛ ꜰʀᴏᴍ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ʟɪsᴛ."
 pbot_5 : "ᴄʜᴀᴛ ɪs ᴀʟʀᴇᴀᴅʏ ɪɴ ᴛʜᴇ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ʟɪsᴛ."
